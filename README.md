@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning artificial intelligence
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me- kanika10it19@bpitdelhi.onmicrosoft.com
+- 📫 How to reach me- kanika.abc2106@gmail.com
 
 <!---
 kanika2106/kanika2106 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
